@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="fuckUSchool:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/fuckUSchool_jar</output-path>
-    <root id="archive" name="fuckUSchool.jar">
-      <element id="module-output" name="fuckUSchool" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/library/jsoup-1.11.3.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
